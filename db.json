@@ -1,5 +1,5 @@
 {
-  "user": [
+  "wishlist": [
     {
      "id":1,
      "brand":"Suzuki",
@@ -9,7 +9,5 @@
      "desc":"Suzuki car manual 6 speed",
      "price":6 
     },
-    {
-    }
   ]
 }
